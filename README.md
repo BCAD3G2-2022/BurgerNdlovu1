@@ -1,1 +1,1 @@
-# BurgerNdlovu1
+# BurgerNdlovu1. It is Ice task 1 made by a Student ST10116725. This ice task was created in Visual studio Code. It uses the vscode, called the visual studio code language. It is an html website that is  created for the user to make a burger order from choosing in between different types of burgers. It is  a burger Menu. You can choose between adding a lettucce, patty or bun to your burger. These are the different options or types of burgers available. 
